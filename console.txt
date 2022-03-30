@@ -1,0 +1,131 @@
+Initial database of accounts and balances
+Account 	Balance
+1000 		$2000.10
+2000 		$3000.20
+3000 		$4000.30
+4000 		$5000.40
+5000 		$6000.50
+6000 		$7000.60
+7000 		$8000.70
+
+Select one of the following:
+
+W - Withdrawal
+D - Deposit
+N - New account
+B - Balance
+Q - Quit
+
+Enter a choice:b
+Enter an account number:1114
+
+Select one of the following:
+
+W - Withdrawal
+D - Deposit
+N - New account
+B - Balance
+Q - Quit
+
+Enter a choice:b
+Enter an account number:2000
+
+Select one of the following:
+
+W - Withdrawal
+D - Deposit
+N - New account
+B - Balance
+Q - Quit
+
+Enter a choice:d
+Enter an account number:4000
+Enter the amount to deposit:5000.40
+
+Select one of the following:
+
+W - Withdrawal
+D - Deposit
+N - New account
+B - Balance
+Q - Quit
+
+Enter a choice:d
+Enter an account number:1000
+Enter the amount to deposit:200000.0
+
+Select one of the following:
+
+W - Withdrawal
+D - Deposit
+N - New account
+B - Balance
+Q - Quit
+
+Enter a choice:d
+Enter an account number:4325
+
+Select one of the following:
+
+W - Withdrawal
+D - Deposit
+N - New account
+B - Balance
+Q - Quit
+
+Enter a choice:w
+Enter an account number:2000
+Enter the amount to withdraw:500
+
+Select one of the following:
+
+W - Withdrawal
+D - Deposit
+N - New account
+B - Balance
+Q - Quit
+
+Enter a choice:w
+Enter an account number:1000
+Enter the amount to withdraw:3000
+
+Select one of the following:
+
+W - Withdrawal
+D - Deposit
+N - New account
+B - Balance
+Q - Quit
+
+Enter a choice:w
+Enter an account number:2134
+
+Select one of the following:
+
+W - Withdrawal
+D - Deposit
+N - New account
+B - Balance
+Q - Quit
+
+Enter a choice:n
+Enter a new account number:3768
+
+Select one of the following:
+
+W - Withdrawal
+D - Deposit
+N - New account
+B - Balance
+Q - Quit
+
+Enter a choice:q
+Initial database of accounts and balances
+Account 	Balance
+3768 		$   0.00
+2000 		$2500.20
+3000 		$4000.30
+4000 		$10000.80
+5000 		$6000.50
+6000 		$7000.60
+7000 		$8000.70
