@@ -1,0 +1,39 @@
+Transaction Type: Balance
+Error,the account number:1114, does not exist
+
+Transaction Type: Balance
+Account number:2000
+Current Balance:$3000.20
+
+Transaction Type: Deposit
+Account number:4000
+Current Balance:$5000.40
+Amount to Deposit:$5000.4
+New Balance:$10000.80
+
+Transaction Type: Deposit
+Account number:1000
+Amount to Deposit:$200000.0
+Error,can not deposit this amount of money
+
+Transaction Type: Deposit
+Error,account:4325 does not exist
+
+Transaction Type: Withdrawal
+Account number:2000
+Current Balance:$3000.20
+Amount to withdraw:$500.0
+New Balance:$2500.20
+
+Transaction Type: Withdrawal
+Account number:1000
+Current Balance:$2000.10
+Amount to Withdraw:3000.0
+Error: Insufficient Funds Available
+
+
+Transaction Type: Withdrawal
+Error,account:2134 does not exist
+
+Transaction Type: New Account
+account:3768
